@@ -1,0 +1,7 @@
+/home/nathaniel/Documents/LudumDare/build/CMakeFiles/install.dir
+/home/nathaniel/Documents/LudumDare/build/CMakeFiles/list_install_components.dir
+/home/nathaniel/Documents/LudumDare/build/CMakeFiles/rebuild_cache.dir
+/home/nathaniel/Documents/LudumDare/build/CMakeFiles/LudumDare.dir
+/home/nathaniel/Documents/LudumDare/build/CMakeFiles/install/strip.dir
+/home/nathaniel/Documents/LudumDare/build/CMakeFiles/install/local.dir
+/home/nathaniel/Documents/LudumDare/build/CMakeFiles/edit_cache.dir

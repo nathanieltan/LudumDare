@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/LudumDare.dir/main.cpp.o CMakeFiles/LudumDare.dir/Collision.cpp.o CMakeFiles/LudumDare.dir/thingsWithMass.cpp.o  -o LudumDare -rdynamic -lsfml-network -lsfml-audio -lsfml-graphics -lsfml-window -lsfml-system 
